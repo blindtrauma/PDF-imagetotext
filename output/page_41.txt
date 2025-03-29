@@ -1,0 +1,22 @@
+59. Question 59
+
+If (5, 6) is a vertex and 6x — 2y + 7 = 0 is the equation of a diagonal of a square, then find the equation of the other diagonal of the square.
+
+Pick ONE option
+
+© x+3y-23=0
+
+© x+3y-27=0
+
+O x+3y-28=0
+
+ii
+
+O x+3y+23=0
+
+Clear Selection
+
+60. Question 60
+
+The HCF of two natural numbers P and Q is 117 and their sum is 1989. If Land M are the maximum and the minimum difference (positive) between P and Q, respectively, find the value of L—- M.
+

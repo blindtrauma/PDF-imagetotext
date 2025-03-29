@@ -1,0 +1,22 @@
+47. Question 47
+
+Direction: Study the following information carefully and answer the questions that follow.
+Lavya has bought 5 different coloured shirts - Red, Blue, Yellow, White and Black at different prices.
+
+|. The price of a yellow shirt is more than that of a white shirt but less than that of a blue shirt.
+IL The price of only one shirt is more than that of a red shirt. The price of a white shirt is Rs. 30 more than that of a black shirt.
+
+IN. The difference between the prices of yellow and blue shirts is Rs. 320. The price of a red shirt is equal to the sum of the third & fifth expensive shirts.
+IM. The combined price of the most expensive and cheapest shirt is Rs. 100 less than twice the price of a red shirt.
+
+V. The price of the second cheapest shirt is half the price of the second expensive shirt.
+
+Question: What is the total amount spent by Lavya on 5 shirts?
+
+Pick ONE option
+
+() Rs. 1540
+() Rs. 1590
+(C) Rs. 1610
+() Rs. 1850
+

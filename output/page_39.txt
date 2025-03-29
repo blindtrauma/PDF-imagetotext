@@ -1,0 +1,37 @@
+56. Question 56
+
+Direction: Study the information given below and answer the question that follows:
+
+Consider the following funnel diagrams. Each diagram shows the distribution of the percentage of employees occupied in different departments. The leftmost funnel shows the distribution of employees as a percentage of the total employees in the 5 departments, the middle funnel depicts the
+percentage distribution of the recently promoted employees in the five departments out of the total recently promoted employees and the rightmost funnel is the percentage distribution of male employees in the 5 departments out of the total male employees.
+
+Employees in five Employees recently Mala employees in
+departments promoted each department
+
+Employees in five departments: Employees recently promoted: Male employees in each department = 8: 3:5
+Question: What is the average of the total male employees working in the IT department and total female employees working in the Marketing department, if the difference between the number of employees who gat promoted from the Production and HR departments is 360?
+
+Pick ONE option
+
+57. Question 57
+
+Direction: Study the following information carefully and answer the questions that follow.
+H1, H2, H3, H4, H5, H6, H7, H8 and H9 are nine houses in a society.
+* Hois4 km north of H9 and H3 is 7 km east of Hb.
+
+* HS is 12 km south of H3. H8 is 3 km west of H5 while H1 is 2 km north of HB.
+
+* H4is 6 km west of Hi and H7 is 5 km south of H4. H2 is 14 km north of H7.
+
+if a woman from house H? walks 3 km north, takes a right turn & walks for another 9 km, then what will be her next turn and how many km will she walk to reach house H3?
+
+Pick ONE option
+
+© Left, 12 km
+
+C) Left, 10 km
+
+() Right, 9 km
+
+©) Right. 10 km
+

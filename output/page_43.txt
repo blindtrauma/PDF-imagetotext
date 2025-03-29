@@ -1,0 +1,22 @@
+63. Question 63
+
+‘There are 4 students — A, B, C, and D each having a certain amount of money. The average amount with them is = 300. If the amount with A and B are increased by 20% and 30%, respectively, the average amount with all of them will increase by = 42.50. Instead, if the amount with A and B are increased by 30% and 20%, respectively, the average amount
+with all of them increased by % 45. If the amount with C is 27.27% more than the amount with D, find the amount (in 2) with C_
+
+Pick ONE option
+
+[om
+© 283
+O 125
+
+64. Question 64
+
+How many integral values of K satisfy the inequality given below?
+{10-(5|K| - |K-5])}20
+
+Pick ONE option
+
+od
+oc
+od
+

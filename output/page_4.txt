@@ -1,0 +1,3 @@
+7. Question 7
+
+How many triangles are inside the circle?

@@ -1,0 +1,39 @@
+54. Question 54
+
+Direction: Study the information given below and answer the question that follows:
+
+The following bar graph depicts the percentage of students who participated in games, among them the percentage of students who participated in football, the percentage of boys who participated in football out of the students who participated in football and the percentage of girls who participated in other games from the same school. The
+participating students are divided into two categories, those who play Football and other games.
+
+Note: The number of students who participated in other games in The Asian School, GD Goenka International School, Shanti Niketan Vidyapeeth, The Hyderabad Public School, and Inventure Academy are 240, 340, 315, 324 and 196 respectively.
+
+@ % of students who participate in games J % of students who participate in Football
+& % of boys who participate in Football { % of girls who participate in other games.
+
+100% 90%
+80%
+75% 75%
+70% 70%
+7m 65%
+60% 60%
+50% SO%
+50% 45%
+0%
+5%
+2%
+O%
+The Asian GD Goenka ‘Shanti Niketan The Hyderabad Inventure
+School Intemational Vidyapeeth Public School. Academy
+
+School
+
+Find the difference between the average number of boys who play Football and the average number of girls who play other games in all the Institutions?
+
+O
+
+55, Question 55
+
+There are two clocks, both set to show the correct time at 6 a.m. The first clock gains 5 minutes in one hour whereas the second clock gains 4 minutes in one hour. If the second clack shows the time as 9:12 a.m. on the same day, then what time does the other clock show? (Note: The clock is in 12 hour format}.
+
+Pick ONE option
+

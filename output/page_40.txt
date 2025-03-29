@@ -1,0 +1,19 @@
+58. Question 58
+
+Direction: Study the information given below and answer the question that follows:
+Consider the following funnel diagrams. Each diagram shows the distribution of the percentage of employees occupied in different departments. The leftmost funnel shows the distribution of employees as a percentage of the total employees in the 5 departments, the middle funnel depicts the percentage distribution of the recently promoted employees in
+the five departments out of the total recently promoted employees and the rightmost funnel is the percentage distribution of male employees in the 5 departments out of the total male employees.
+
+Employees in five Employees recently Male employees in
+promoted
+
+departments
+
+Employees in five departments: Employees recently promoted: Male employees in each department =8 3:5
+Question: What is the total number of employees promoted in the Accounts department and the total number of male employees in the IT department, if the total number of female employees in the Production department is 392 which is 40% of total employees in the Production department?
+
+each department
+
+ih
+
+Clear Selection

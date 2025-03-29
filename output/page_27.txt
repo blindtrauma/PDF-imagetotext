@@ -1,0 +1,33 @@
+37. Question 37
+
+Consider the flowchart given below and answer the question that follows:
+START
+
+Y
+
+A (Box 5) - (Box 8). Place the result in Box 10.
+
+B (Box 7y * (Box 2). Place the result in Box 1.
+
+c Box 4 + Box 10. Place the result in Box 6.
+
+p Box3+ Box 9, Place the result in Box 7.
+
+v
+
+END
+
+If the flowchart is executed on the below box, the numbers on which of the boxes will not be changed at the end?
+
+ess [o=2 [eo msfons] 08] 07 [ or [mo [ome
+
+vas] « [ow] 22 [12 | + [on foznfone] oe
+
+Pick ONE option
+
+on
+a
+CO) s0x1
+
+a
+
